@@ -18,4 +18,3 @@ Explore our Java build rules and use the same in your projects.
 ## 🔴 Current issues
 
 * Databinidng is not supported
-* Windows building is not supported

@@ -1,7 +1,4 @@
-Bazel Java Android Sample
-======
-
-# Overview
+# Bazel Java Android Sample
 
 This repository contains simple Java application and its Bazel build files. To build these samples, do the following:
 

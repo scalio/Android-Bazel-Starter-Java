@@ -1,4 +1,4 @@
-# Bazel Java Android Starter
+# Bazel Android-Java Starter
 
 This repository contains simple Java application and its Bazel build files. To build these samples, do the following:
 
